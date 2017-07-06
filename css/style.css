@@ -1,0 +1,258 @@
+/* YOUR CUSTOM STYLES */
+.container-fluid
+{
+	/* font-size:12px; 
+	margin-top: 8px; */
+}
+
+.employee
+{
+	padding: 0px;
+	float: top;
+	border-radius: 12px;
+	width: 260px;
+	height: 60px;
+	background-color:#92a53a;
+	position: relative;
+	/* margin-top: 20px; */
+	margin-bottom: 10px
+	margin-left: 80px;
+	line-height: 90%;
+	
+}
+.employee a:hover
+{
+  background-color: navy;
+}
+
+.searching{
+  /* margin-top: 10px; */
+}
+  .menuitems
+{
+  /* border-spacing: 80px; */
+  background-color: rgb(65,45,93);
+  margin-top: 80px;
+  min-height: 200px;
+ 
+}
+.jobseekers
+{
+	float: right;
+	border-radius: 30px;
+	position:relative; 
+	top: 0px;
+	width: 260px; 
+	height: 150px;
+	z-index: 1;
+	margin-top: 10px;
+	margin-right: 20px;
+    
+}
+
+.jobseekers a:hover
+{
+  background-color:green;
+}
+
+.stdlogin
+{
+	height: 50%;
+	background: #311d47;
+	padding: 15px;
+	border-radius: 20px;
+}
+
+.stdlogin a
+{
+	color: white;
+}
+
+.upload
+{
+	height: 50%;
+	background: #311d47;
+	padding: 15px;
+	border-radius: 20px;
+
+}
+
+.upload a
+{
+	color: white;
+	
+}
+h1
+{
+  margin-left: 17px;
+  font-size: 20px;
+  font-weight: bold;
+  color: red;
+  margin-top: 20px;
+}
+input[type=text]{
+  background: white;
+  border-bottom: none !important;
+  padding: 5px;
+  
+}
+.main{
+  top: 0px;
+  background: violet;
+}
+.btngrpcls{
+  transition: 0.5s opacity linear;;
+
+}
+
+input[type=text]:focus{
+  background: white;
+  border-bottom:none !important;
+}
+header{
+  top: 88px;
+  width: 100%;
+  position: fixed;
+  z-index: 1;
+  /*background: orange;*/
+  display: inline-block;
+  transition: 1s height;
+  float: left;
+}
+
+.emp
+  {
+  	margin-left: 80px;
+  }
+
+  
+   .change
+   {
+   	margin-top: 20px;
+
+
+   }
+
+   .fluid
+    {
+    	/* height: 80px;
+    	padding: 30px; */
+    }
+    .msg
+   {
+      /* padding: 40px;
+      height: 40px; */
+    }
+    .message
+    {
+    	height: 80px;
+    	margin-top: 20px;
+    }
+
+    .blocks
+    {
+      margin-top: 20px;
+    }
+
+    .test
+    {
+    	padding: 80px;
+    	min-height: 100px;
+    	width: 100%;
+    }
+    
+    .md-form select{
+     background: white;
+     }
+
+   .md-form select:focus{
+    background: white;
+    }
+
+   .md-form select:active{
+    background: white;
+   }
+   .carousel{
+    z-index: 0;
+   }
+
+
+   header ul li{
+      display: inline-block;
+      color: white;
+      border-radius: 5px;
+      border: 1px dotted white;
+      margin: 0;
+      padding: 0;
+    }
+ul li a{
+  color: red;
+}
+
+  ul li a:hover{
+  color: floralwhite;
+}
+.navitemlist ul li 
+{
+  display: inline-block; 
+  /* float: right; */
+  margin-left:4px;
+  min-height: 30px;
+  color: navy;
+}
+
+/* ul{
+  display: inline-block;
+} */
+
+.lists a
+{
+  
+  color: white;
+  font-family:arial;
+  font-size:12px;
+  font-weight: bold;
+  font-style: ;
+
+
+}
+
+h5
+{
+  /* margin-left: 10px; */
+  color: white;
+}
+.menus ul li a
+{
+  color: red;
+ /*  background-color: red; */
+
+}
+.heads
+{
+  text-transform: uppercase;;
+}
+.func a ul li a
+{
+   color: white;
+   font-style: color: white;
+}
+.navlisting li a
+{
+  color: black;
+  font:color:black;
+
+}
+
+.employeelisting
+{
+  color: blue;
+  background-color:#0DD1F0;
+  text-align: center;
+}
+.lastfooter
+{
+  background-color:#000080; 
+  padding: 5px;
+  font-size: 14px;
+ }
